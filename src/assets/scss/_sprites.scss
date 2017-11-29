@@ -1,0 +1,72 @@
+
+
+.bg-moneta {
+  width: 76px; height: 28px;
+  background: url('/static/img/css_sprites.png') -380px -222px;
+}
+
+
+.bg-ms {
+  width: 43px; height: 26px;
+  background: url('/static/img/css_sprites.png') -507px -175px;
+}
+
+
+.bg-qiwi {
+  width: 67px; height: 27px;
+  background: url('/static/img/css_sprites.png') -507px -128px;
+}
+
+
+.bg-visa {
+  width: 47px; height: 15px;
+  background: url('/static/img/css_sprites.png') -527px -222px;
+}
+
+
+.bg-wallet {
+  width: 31px; height: 26px;
+  background: url('/static/img/css_sprites.png') -476px -222px;
+}
+
+
+.bg-wm {
+  width: 107px; height: 27px;
+  background: url('/static/img/css_sprites.png') -380px -128px;
+}
+
+
+.bg-work {
+  width: 252px; height: 103px;
+  background: url('/static/img/css_sprites.png') -10px -232px;
+}
+
+
+.bg-ya {
+  width: 107px; height: 27px;
+  background: url('/static/img/css_sprites.png') -380px -175px;
+}
+
+
+.bg-title {
+  width: 211px; height: 98px;
+  background: url('/static/img/css_sprites.png') -380px -10px;
+}
+
+
+.bg-btn_hover {
+  //width: 350px;
+  width: calc(100% + 35px);
+  height: 122px;
+  background: url('/static/img/spr2.png') 0 0 no-repeat;
+  background-size: 200%;
+}
+
+
+.bg-btn_usual {
+  //width: 332px;
+  width: calc(100% + 35px);
+  height: 122px;
+  background: url('/static/img/spr2.png') 102.1% 0 no-repeat;
+  background-size: 200%;
+}

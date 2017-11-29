@@ -1,0 +1,40 @@
+// responsive media query
+
+
+
+
+@mixin br-lg {
+  @media (max-width: #{$br-lg}) {
+    @content;
+  }
+}
+
+@mixin br-md {
+  @media (max-width: #{$br-md}) {
+    @content;
+  }
+}
+
+@mixin br-sm {
+  @media (max-width: #{$br-sm}) {
+    @content;
+  }
+}
+
+@mixin br-xs {
+  @media (max-width: #{$br-xs}) {
+    @content;
+  }
+}
+
+@mixin br-exs {
+  @media (max-width: #{$br-exs}) {
+    @content;
+  }
+}
+
+@mixin br-custom($breakpoint) {
+  @media (max-width: #{$breakpoint}) {
+    @content;
+  }
+}
